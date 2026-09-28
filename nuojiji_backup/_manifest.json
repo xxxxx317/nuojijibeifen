@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790607645818,
+  "timestamp": 1790607654426,
   "appVersion": "6.9.87 (2026.09.27)",
   "tables": [
     "characters",
@@ -114,7 +114,8 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 8
+    "messages": 8,
+    "ttsAudio": 1
   },
   "completedTables": {
     "characters": true,
@@ -142,7 +143,8 @@
     "customBgm": true,
     "flashMoments": true,
     "groupSettings": true,
-    "userLinks": true
+    "userLinks": true,
+    "userMessages": true
   },
   "inProgress": true
 }
