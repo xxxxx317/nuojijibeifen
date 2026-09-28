@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790607594658,
+  "timestamp": 1790607600679,
   "appVersion": "6.9.87 (2026.09.27)",
   "tables": [
     "characters",
@@ -133,7 +133,8 @@
     "roleStickers": true,
     "tmSessions": true,
     "tmStories": true,
-    "multiSceneSessions": true
+    "multiSceneSessions": true,
+    "multiSceneStories": true
   },
   "inProgress": true
 }
