@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791039762707,
+  "timestamp": 1791039765393,
   "appVersion": "6.9.90 (2026.10.03)",
   "tables": [
     "characters",
@@ -224,5 +224,8 @@
     "charLifePlans": true,
     "_migration": true
   },
-  "inProgress": true
+  "skippedTables": [
+    "globalSettings"
+  ],
+  "inProgress": false
 }
